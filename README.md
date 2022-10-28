@@ -1,5 +1,5 @@
 # Examen Blanc Design Pattern et Programmation Orientée Aspect
-## 1- Le Diagramme de classe du modèle
+## 1- Les Diagrammes de classe du modèle
 + Donner la possibilité de Créer un groupe de figures. Chaque groupe peut contenir d’autres groupes. On va utiliser le design pattern Composite car on voudrait Organiser des objets en structure arborescente afin de représenter une hiérarchie.
 
 ![image](https://user-images.githubusercontent.com/52087288/198540508-c1fb089e-1413-4c3e-a600-c2a8ed05e5df.png)
