@@ -8,6 +8,7 @@ import org.example.entities.Point;
 
 public class Rectangle extends Figure {
 
+
     private double L;
     private double H;
 
