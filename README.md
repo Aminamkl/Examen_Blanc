@@ -8,3 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/52087288/198542793-d86a979b-20df-49bb-94d8-7f21ec7e17bc.png)
 
++ Une méthode « traiter » qui permet de traiter le contenu du dessin en utilisant une famille d’algorithmes qui sont interchangeables dynamiquement. Ce signifie qu’au moment de l’exécution, l’objet dessin pour changer d’algorithme avec un autre de la même famille. Chaque algorithme peut évoluer indépendamment de la classe dessin qui les utilise. On va utiliser le design pattern Strategy .
+
+![image](https://user-images.githubusercontent.com/52087288/198544500-ee66e3ab-d7cc-4b2a-8c4f-2936eca73b92.png)
