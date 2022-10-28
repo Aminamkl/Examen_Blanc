@@ -15,6 +15,10 @@ public class GroupeFigure extends Figure {
         listFigures = new ArrayList<>();
     }
 
+    public void addFigure(Figure figure){
+        listFigures.add(figure);
+    }
+
 
     @Override
     public double getSurface() {
