@@ -25,3 +25,10 @@
 ![image](https://user-images.githubusercontent.com/52087288/198558623-397ad093-f998-4e91-9d79-880506b1f8ee.png)
 
 + La deuxième partie du test avec le résultat
+
+![image](https://user-images.githubusercontent.com/52087288/198561484-67cbddca-92de-48f8-97ae-292609f46e14.png)
+
+![image](https://user-images.githubusercontent.com/52087288/198561592-78543a56-e186-4c7e-afa0-e0f30c296652.png)
+
+
+
