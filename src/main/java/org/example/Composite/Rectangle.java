@@ -46,7 +46,7 @@ public class Rectangle extends Figure {
     @Override
     public void dessiner() {
 
-        System.out.println("Rectangle avec Largeur et Hauteur => L : "+L+",H :"+H+"Perimetre :"+getPerimetre()+"surface :"+getSurface());
+        System.out.println("Largeur du Rectangle : "+L+" , Hauteur du Rectangle : "+H+" , Perimetre : "+getPerimetre()+" , surface : "+getSurface());
 
     }
     @Override
