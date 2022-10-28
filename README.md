@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/52087288/198544500-ee66e3ab-d7cc-4b2a-8c4f-2936eca73b92.png)
 
 ## 2- L'implémentation du modèle en utilisant un projet Maven
-+ La sturcture du projet dans IntelliJ IDEA
++ La sturcture du projet dans IntelliJ IDEA. Et on a divisé le projet en quatre package "Strategy","Observable","Composite" et "entities"
 
 ![image](https://user-images.githubusercontent.com/52087288/198551473-dfac9907-b273-4e81-ab37-ddd1500fe31f.png)
 
