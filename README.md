@@ -18,3 +18,10 @@
 ![image](https://user-images.githubusercontent.com/52087288/198551473-dfac9907-b273-4e81-ab37-ddd1500fe31f.png)
 
 ## 3- Les Tests du modèle
++ La première partie du test avec le résultat : 
+
+![image](https://user-images.githubusercontent.com/52087288/198558376-476ee7c7-c1ae-48c2-a03f-d85c57df7ae8.png)
+
+![image](https://user-images.githubusercontent.com/52087288/198558623-397ad093-f998-4e91-9d79-880506b1f8ee.png)
+
++ La deuxième partie du test avec le résultat
