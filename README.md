@@ -30,5 +30,12 @@
 
 ![image](https://user-images.githubusercontent.com/52087288/198561592-78543a56-e186-4c7e-afa0-e0f30c296652.png)
 
++ La troisième partie du test avec le résultat
+
+![image](https://user-images.githubusercontent.com/52087288/198566401-bf8dce52-f7c0-4001-8f71-4eda8f077934.png)
+
+![image](https://user-images.githubusercontent.com/52087288/198566574-2c698c04-f08a-4d36-92d2-22e2f64b3a1b.png)
+
+
 
 
