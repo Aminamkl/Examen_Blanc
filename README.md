@@ -11,3 +11,10 @@
 + Une méthode « traiter » qui permet de traiter le contenu du dessin en utilisant une famille d’algorithmes qui sont interchangeables dynamiquement. Ce signifie qu’au moment de l’exécution, l’objet dessin pour changer d’algorithme avec un autre de la même famille. Chaque algorithme peut évoluer indépendamment de la classe dessin qui les utilise. On va utiliser le design pattern Strategy .
 
 ![image](https://user-images.githubusercontent.com/52087288/198544500-ee66e3ab-d7cc-4b2a-8c4f-2936eca73b92.png)
+
+## 2- L'implémentation du modèle en utilisant un projet Maven
++ La sturcture du projet dans IntelliJ IDEA. Et on a divisé le projet en quatre package "Strategy","Observable","Composite" et "entities"
+
+![image](https://user-images.githubusercontent.com/52087288/198551473-dfac9907-b273-4e81-ab37-ddd1500fe31f.png)
+
+## 3- Les Tests du modèle
